@@ -1,0 +1,7 @@
+buildRes/
+dist/
+node_modules/
+
+.idea/
+.vscode/
+.github/
